@@ -9,3 +9,5 @@ Strive for betterment.
 
 **Bold Statements**
 *Italic isnt Italian*
+
+[Markdown](markdown.md)
