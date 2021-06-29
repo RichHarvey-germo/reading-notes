@@ -15,7 +15,7 @@ Discomfort equals growth.
 
 [Coders Computer](coders-computer.md)
 
-[Revisons](revisons.md)
+[Revisions](revisions.md)
 
 
 made a change
