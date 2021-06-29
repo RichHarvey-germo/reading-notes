@@ -6,6 +6,7 @@
 Growth Mindset is something everyone should shoot for. 
 Not living a stagnant lifestyle but one of further improvement.
 Strive for betterment.
+Discomfort equals growth.
 
 **Bold Statements**
 *Italic isnt Italian*
