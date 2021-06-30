@@ -11,12 +11,13 @@ Discomfort equals growth.
 **Bold Statements**
 *Italic isnt Italian*
 
+
+## Table of Contents
 [Markdown](markdown.md)
 
 [Coders Computer](coders-computer.md)
 
 [Revisions](revisions.md)
 
+[HTML](html.md)
 
-made a change
-made more changes
