@@ -1,6 +1,6 @@
-#Revisions and the cloud
+# Revisions and the cloud
 
-###Notes
+### Notes
 -Files in Git can reside in three main states: committed, modified and staged.
 
 [Back <==](README.md)
