@@ -24,3 +24,7 @@ Discomfort equals growth.
 [CSS](css.md)
 
 [Javascript](javascript.md)
+
+[Programming with JS](programjs.md)
+
+[Operators and Loops](func.md)
