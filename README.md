@@ -28,3 +28,21 @@ Discomfort equals growth.
 [Programming with JS](programjs.md)
 
 [Operators and Loops](func.md)
+
+[201](201.md)
+
+[201class1](201class1.md)
+
+[201class2](201class2.md)
+
+[201class3](201class3.md)
+
+[201class4](201class4.md)
+
+[201class5](201class5.md)
+
+[201class6](201class6.md)
+
+[201class7](201class7.md)
+
+[201class8](201class8.md)
